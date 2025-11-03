@@ -1,6 +1,6 @@
 # clip_on_plantvillage
 CLIP模型在PlantVillage植物病害识别任务中的应用探究
-CLIP模型在PlantVillage植物病害识别任务中的应用探究
+
 # 1.环境准备
 1.1 公开的数据集\
 PlantVillage Dataset(kaggle) [https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset]\
