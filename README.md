@@ -20,7 +20,7 @@ PyTorch version info: 2.10.0.dev20251026+cu130\
 验证集比率：20%\
 测试集比率：10%
 # 3.使用教程
-0.文件目录结构：\
+3.1 文件目录结构：\
 （工作）根目录\
 -dataset\
 --color\
@@ -29,11 +29,11 @@ PyTorch version info: 2.10.0.dev20251026+cu130\
 -model.py\
 -train.py
 
-1.先运行pip install -r requirements.txt 安装依赖
+3.2 先运行pip install -r requirements.txt 安装依赖
 
-2.运行split_data.py划分数据集
+3.3 运行split_data.py划分数据集
 
-3.运行train.py训练
+3.4 运行train.py训练
 # 4.训练结果
 在Epoch为20时，有最高准确率为93.18%
 
