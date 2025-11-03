@@ -43,4 +43,5 @@ PyTorch version info: 2.10.0.dev20251026+cu130\
 accuracy&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;0.9349&ensp;&ensp;5435\
 macro avg &ensp;&ensp; &ensp;&ensp;0.9030&ensp;&ensp;0.8849&ensp;&ensp;0.8910&ensp;&ensp;5435\
 weighted avg&ensp;&ensp; 0.9322&ensp;&ensp;0.9349&ensp;&ensp;0.9320&ensp;&ensp;5435\
-具体训练结果见results.xlsx
+具体训练结果见results.xlsx \
+另请参见：[https://www.leexinghai.com/aic/p3cliponpv/]
