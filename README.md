@@ -1,0 +1,2 @@
+# clip_on_plantvillage
+CLIP模型在PlantVillage植物病害识别任务中的应用探究
