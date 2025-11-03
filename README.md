@@ -34,6 +34,8 @@ PyTorch version info: 2.10.0.dev20251026+cu130\
 3.3 运行split_data.py划分数据集
 
 3.4 运行train.py训练
+
+注意：如果显卡性能比5090低，请调整[data_loader.py]中***NW***和***batch_size***参数。
 # 4.训练结果
 在Epoch为20时，有最高准确率为93.18%
 
