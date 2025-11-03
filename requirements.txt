@@ -1,0 +1,14 @@
+torch>=1.12.0
+torchvision>=0.13.0
+scikit-learn>=1.0.0
+tqdm>=4.0.0
+pillow>=8.0.0
+numpy>=1.19.0
+# OpenAI CLIP: install from the official GitHub repo
+# This installs the `clip` package used in the code (ViT-B/32, etc.).
+# If you prefer a released wheel or your environment already contains CLIP, you can omit the line below.
+git+https://github.com/openai/CLIP.git@main#egg=clip
+
+# Optional: specify a cpu/cuda compatible torch build if needed.
+# Example for CUDA 11.7 (adjust to your CUDA version):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu117
